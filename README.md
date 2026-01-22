@@ -67,6 +67,6 @@ The analysis focuses on understanding how working hours are distributed and how 
 │ └── analysis.ipynb
 ├── README.md
 
-## 👤 Author
+## Author
 **Lai Thuy Binh**  
 IT Student | Data Analyst Intern Candidate
