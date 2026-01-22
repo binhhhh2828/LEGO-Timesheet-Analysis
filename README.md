@@ -1,12 +1,12 @@
 # LEGO Timesheet Analytics
 
-## 📌 Project Description
+## Project Description
 This project analyzes timesheet data to evaluate workforce utilization and identify inefficiencies in project execution.
 The analysis focuses on understanding how working hours are distributed and how they impact overall performance.
 
 ---
 
-## 🎯 Business Questions
+## Business Questions
 - How does **Productive Utilization (PU)** change over time?
 - What is the ratio between **billable and non-billable hours**?
 - Are there specific periods or teams with unusually low efficiency?
@@ -14,7 +14,7 @@ The analysis focuses on understanding how working hours are distributed and how 
 
 ---
 
-## 📂 Dataset
+## Dataset
 - The dataset consists of employee timesheet records.
 - Key fields include:
   - Date
@@ -26,7 +26,7 @@ The analysis focuses on understanding how working hours are distributed and how 
 
 ---
 
-## 🔍 Analysis Approach
+## Analysis Approach
 1. Data cleaning and validation
 2. Calculation of key metrics:
    - Productive Utilization (PU)
@@ -36,7 +36,7 @@ The analysis focuses on understanding how working hours are distributed and how 
 
 ---
 
-## 📊 Key Metrics Explained
+## Key Metrics Explained
 - **Productive Utilization (PU)**  
   Percentage of productive working hours compared to total working hours.
 
@@ -45,14 +45,14 @@ The analysis focuses on understanding how working hours are distributed and how 
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - PU showed noticeable fluctuations across different periods.
 - Certain time ranges had a high proportion of non-billable hours, indicating potential inefficiencies.
 - The analysis highlights opportunities for improving resource allocation and workload planning.
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - Python
 - SQL
 - Excel
@@ -60,4 +60,13 @@ The analysis focuses on understanding how working hours are distributed and how 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
+├── data/
+│ └── sample_timesheet.csv
+├── notebooks/
+│ └── analysis.ipynb
+├── README.md
+
+## 👤 Author
+**Lai Thuy Binh**  
+IT Student | Data Analyst Intern Candidate
