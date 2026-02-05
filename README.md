@@ -47,12 +47,13 @@ The analysis focuses on understanding how working hours are distributed and how 
 ## Key Insights
 - PU showed noticeable fluctuations across different periods.
 - In Germany, LMP00001501 shows a very low level of PU.
-- <img width="1199" height="319" alt="image" src="https://github.com/user-attachments/assets/83cc813b-2e15-4177-a1c1-795a4b3555b6" />
+<img width="1199" height="319" alt="image" src="https://github.com/user-attachments/assets/83cc813b-2e15-4177-a1c1-795a4b3555b6" />
 - In Mexico, LMP00001501 shows a very low level of PU.
 <img width="1289" height="192" alt="image" src="https://github.com/user-attachments/assets/030601c1-6de5-4828-92c3-3e996743acbd" />
---> Main reason leads to low PU in these 2 countries
+--> Main reason leads to low PU in these 2 countries.
+  
 - In PRC, LMP00001501 shows a sustainable PU; the recent downward trend is due to the completion of its projects.
-- <img width="1154" height="293" alt="image" src="https://github.com/user-attachments/assets/79f1a157-e697-4c11-b7f0-2a2220b84061" />
+<img width="1154" height="293" alt="image" src="https://github.com/user-attachments/assets/79f1a157-e697-4c11-b7f0-2a2220b84061" />
 
 - LMP00001503 is the best-performing project in 2025, sustaining a high PU of 97% with costs reaching up to £4M.
 <img width="1732" height="190" alt="image" src="https://github.com/user-attachments/assets/35cf1b66-201a-4fdb-b12b-d6f306471d16" />
