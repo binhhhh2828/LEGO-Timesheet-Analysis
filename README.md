@@ -86,4 +86,4 @@ The analysis focuses on understanding how working hours are distributed and how 
 
 ## Author
 **Lai Thuy Binh**  
-IT Student | Data Analyst Intern Candidate
+Data Analyst
